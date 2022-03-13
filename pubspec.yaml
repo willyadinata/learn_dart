@@ -1,0 +1,6 @@
+name: LearnDart
+description: "For Learning Only"
+environment:
+  sdk: '>=2.10.0 <3.0.0'
+dependencies:
+  equatable: 2.0.3

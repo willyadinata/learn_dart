@@ -1,0 +1,5 @@
+
+enum ShowDartContent {
+  exception,
+  collectionSet,
+}
